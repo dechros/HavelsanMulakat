@@ -1,0 +1,4 @@
+﻿  HavelsanMulakat.cpp
+C:\Users\hp\source\repos\HavelsanMulakat\HavelsanMulakat\HavelsanMulakat.cpp(49,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\hp\source\repos\HavelsanMulakat\HavelsanMulakat\HavelsanMulakat.cpp(59): warning C4715: 'detectLoop': tüm denetim yolları değer döndürmez
+  HavelsanMulakat.vcxproj -> C:\Users\hp\source\repos\HavelsanMulakat\Debug\HavelsanMulakat.exe
